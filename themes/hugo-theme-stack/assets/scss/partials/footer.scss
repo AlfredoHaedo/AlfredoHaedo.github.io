@@ -3,15 +3,6 @@ footer.site-footer {
     font-size: 1.4rem;
     line-height: 1.75;
 
-    &:before {
-        content: "";
-        display: block;
-        height: 3px;
-        width: 50px;
-        background: var(--body-text-color);
-        margin-bottom: 20px;
-    }
-
     .copyright {
         color: var(--accent-color);
         font-weight: bold;
